@@ -18,3 +18,9 @@ A device which will remind me to drink water. Pretty cool. Uses accelerometer da
 ## Renders of the PCB
 ![front](https://raw.githubusercontent.com/ShrinathN/Sippy/main/images/Sippy_front.png)
 ![back](https://raw.githubusercontent.com/ShrinathN/Sippy/main/images/Sippy_back.png)
+
+## Renders of the enclosure
+![rend1](https://raw.githubusercontent.com/ShrinathN/Sippy/main/images/rend1.png)
+![rend2](https://raw.githubusercontent.com/ShrinathN/Sippy/main/images/rend2.png)
+![rend3](https://raw.githubusercontent.com/ShrinathN/Sippy/main/images/rend3.png)
+![rend4](https://raw.githubusercontent.com/ShrinathN/Sippy/main/images/rend4.png)
